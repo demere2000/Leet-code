@@ -1,1 +1,1 @@
-# leet-code
+The problem requires finding two numbers in an array that sum up to a given target. The solution I provided is a JavaScript function that iterates through the array while using a hashmap to store previously encountered numbers, enabling the identification of the complementary number to reach the target sum.
